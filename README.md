@@ -1,2 +1,2 @@
 # NodePro
-Home page of an advertising agency. Stylization and responsiveness done manually, without using frameworks.
+Template da página inicial de uma agência de publicidade. Estilização e responsividade feita manualmente, sem o uso de frameworks.
